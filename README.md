@@ -8,7 +8,7 @@ A reverse shell for easy shell management
 4. Click add new.
 5. Paste the copied path
 6. Click ok until all windows are closed
-7. Now you are ready to use
+7. Now you are ready to use it!
 # Usage - ns.exe
 ns -ip [IP ADDRESS] -p [PORT] -c [CONNECT TO LISTENER] -l [LISTEN FOR INCOMING CONNECTIONS]
 # Usage - ns-server.exe
