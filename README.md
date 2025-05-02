@@ -9,10 +9,12 @@ A reverse shell for easy shell management
 6. Paste the copied path
 7. Click ok until all windows are closed
 8. Now you are ready to use it!
+# Official Installer
 You can download the GUI version with the required dependencies with the NitroShell Installer.exe
-1. Download the installer
-2. Select all components
-3. There will be a folder called Nitroshell. Now continue from step 2 in the instructions above the line "You can download the GUI version with the required dependencies with the NitroShell Installer.exe"
+1. Download the installer.
+2. Select all components (Unless you have broken or outdated components).
+3. There will be a folder called Nitroshell. Move into that folder.
+4. Double-click NitroShell.exe, which will launch the GUI.
 # Usage - ns.exe
 ns -ip [IP ADDRESS] -p [PORT] -c [CONNECT TO LISTENER] -l [LISTEN FOR INCOMING CONNECTIONS]
 **NOTE: UNLIKE ns-server (see below), THIS WILL ONLY TRY CONNECTING ONCE**
