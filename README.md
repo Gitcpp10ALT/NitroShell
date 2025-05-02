@@ -4,11 +4,15 @@ A reverse shell for easy shell management
 # Installation - WINDOWS
 1. Download the executable to a select file
 2. Copy the file directory
-3. Go to edit system enviroment variables and then enviroment variables, system variables, then PATH.
-4. Click add new.
-5. Paste the copied path
-6. Click ok until all windows are closed
-7. Now you are ready to use it!
+4. Go to edit system enviroment variables and then enviroment variables, system variables, then PATH.
+5. Click add new.
+6. Paste the copied path
+7. Click ok until all windows are closed
+8. Now you are ready to use it!
+You can download the GUI version with the required dependencies with the NitroShell Installer.exe
+1. Download the installer
+2. Select all components
+3. There will be a folder called Nitroshell. Now continue from step 2 in the instructions above the line "You can download the GUI version with the required dependencies with the NitroShell Installer.exe"
 # Usage - ns.exe
 ns -ip [IP ADDRESS] -p [PORT] -c [CONNECT TO LISTENER] -l [LISTEN FOR INCOMING CONNECTIONS]
 **NOTE: UNLIKE ns-server (see below), THIS WILL ONLY TRY CONNECTING ONCE**
