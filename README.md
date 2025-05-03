@@ -8,7 +8,7 @@ A reverse shell for easy shell management
 5. Click add new.
 6. Paste the copied path
 7. Click ok until all windows are closed
-8. Now you are ready to use it!
+8. Now you are ready to use it! Note: If full output doesn't load, then press enter until you see your current working directory.
 # Official Installer
 You can download the GUI version with the required dependencies with the NitroShell Installer.exe
 1. Download the installer.
