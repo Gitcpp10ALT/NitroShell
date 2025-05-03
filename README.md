@@ -15,6 +15,7 @@ You can download the GUI version with the required dependencies with the NitroSh
 2. Select all components (Unless you have broken or outdated components).
 3. There will be a folder called Nitroshell. Move into that folder.
 4. Double-click NitroShell.exe, which will launch the GUI.
+5. NOTE, antivirus apps may flag the app as it has a --noconsole flag for streamlined GUI. If possible, add it to a whitelist in your antivirus software.
 # Usage - ns.exe
 ns -ip [IP ADDRESS] -p [PORT] -c [CONNECT TO LISTENER] -l [LISTEN FOR INCOMING CONNECTIONS]
 **NOTE: UNLIKE ns-server (see below), THIS WILL ONLY TRY CONNECTING ONCE**
