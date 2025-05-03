@@ -10,7 +10,7 @@ A reverse shell for easy shell management
 7. Click ok until all windows are closed
 8. Now you are ready to use it! Note: If full output doesn't load, then press enter until you see your current working directory.
 # Official Installer
-You can download the GUI version with the required dependencies with the NitroShell Installer.exe
+You can download the GUI version with the required dependencies with the NitroShell_Setup.exe
 1. Download the installer.
 2. Select all components (Unless you have broken or outdated components).
 3. There will be a folder called Nitroshell. Move into that folder.
