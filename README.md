@@ -17,12 +17,14 @@ You can download the GUI version with the required dependencies with the NitroSh
 4. Double-click NitroShell.exe, which will launch the GUI.
 5. NOTE, antivirus apps may flag the app as it has a --noconsole flag for streamlined GUI. If possible, add it to a whitelist in your antivirus software.
 # Usage - ns.exe
-```bash
+```cmd
 ns -ip [IP ADDRESS] -p [PORT] -c [CONNECT TO LISTENER] -l [LISTEN FOR INCOMING CONNECTIONS]
 ```
 **NOTE: UNLIKE ns-server (see below), THIS WILL ONLY TRY CONNECTING ONCE**
 # Usage - ns-server.exe
+```cmd
 ns-server -ip [IP ADDRESS] -p [PORT]
+```
 **NOTE: THIS SERVER WILL TRY CONNECTING FOREVER UNLESS KEYBOARD INTERRUPT OR TERMINAL WINDOW CLOSED**
 # USAGE - NitroShell.exe
 NitroShell.exe is the GUI version of NitroShell. You must install the file NitroShell GUI as downloading it alone won't work since it depends on ns.exe and ns-server.exe.
