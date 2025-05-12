@@ -18,9 +18,8 @@ You can download the GUI version with the required dependencies with the NitroSh
 5. NOTE, antivirus apps may flag the app as it has a --noconsole flag for streamlined GUI. If possible, add it to a whitelist in your antivirus software.
 # Usage - ns.exe
 ```cmd
-ns -ip [IP ADDRESS] -p [PORT] -c [CONNECT TO LISTENER] -l [LISTEN FOR INCOMING CONNECTIONS]
+ns -ip [IP ADDRESS] -p [PORT] -c [CONNECT TO LISTENER] -l [LISTEN FOR INCOMING CONNECTIONS] -f [LISTEN FOREVER]
 ```
-**NOTE: UNLIKE ns-server (see below), THIS WILL ONLY TRY CONNECTING ONCE**
 # Usage - ns-server.exe
 ```cmd
 ns-server -ip [IP ADDRESS] -p [PORT]
