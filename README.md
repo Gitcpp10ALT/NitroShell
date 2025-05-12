@@ -34,3 +34,5 @@ Installing is the same, but keep in mind that antiviruses may flag it as malicio
 3. To "Grant Access" means to send connection requests to that IP.
 4. To "Listen" is to listen for any connection requests targeted at your IP.
 5. Clicking on one of these will open a shell window. Close it to return to main GUI.
+# DISCLAIMER
+**If this software is used for malicious purposes, I am not responsible for any damage done to your computer with this. This is intended for remote administration and pentesting, not for malicious purposes.**
