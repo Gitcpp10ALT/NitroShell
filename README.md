@@ -20,18 +20,15 @@ You can download the GUI version with the required dependencies with the NitroSh
 ```cmd
 ns -ip [IP ADDRESS] -p [PORT] -c [CONNECT TO LISTENER] -l [LISTEN FOR INCOMING CONNECTIONS] -f [LISTEN FOREVER]
 ```
-# Usage - ns-server.exe
-```cmd
-ns-server -ip [IP ADDRESS] -p [PORT]
-```
 **NOTE: THIS SERVER WILL TRY CONNECTING FOREVER UNLESS KEYBOARD INTERRUPT OR TERMINAL WINDOW CLOSED**
 # USAGE - NitroShell.exe
 NitroShell.exe is the GUI version of NitroShell. You must install the file NitroShell GUI as downloading it alone won't work since it depends on ns.exe and ns-server.exe.
 Installing is the same, but keep in mind that antiviruses may flag it as malicious and delete the file. If this happens, add it to the antivirus's whitelist.
 1. Enter IP in IP box. DDNS's may work, but hasn't been tested.
 2. Enter a valid port number.
-3. To "Grant Access" means to send connection requests to that IP.
-4. To "Listen" is to listen for any connection requests targeted at your IP.
-5. Clicking on one of these will open a shell window. Close it to return to main GUI.
+3. Click on either "Listen" or "Connect". Clicking one will open a shell window. Close to return to main GUI.
+4. To "Grant Access" means to send connection requests to that IP.
+5. To "Listen" is to listen for any connection requests targeted at your IP.
+6. Clicking on one of these will open a shell window. Close it to return to main GUI.
 # DISCLAIMER
 **If this software is used for malicious purposes, I am not responsible for any damage done to your computer with this. This is intended for remote administration and pentesting, not for malicious purposes.**
