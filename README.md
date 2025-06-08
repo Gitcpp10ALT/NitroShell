@@ -27,8 +27,5 @@ Installing is the same, but keep in mind that antiviruses may flag it as malicio
 1. Enter IP in IP box. DDNS's may work, but hasn't been tested.
 2. Enter a valid port number.
 3. Click on either "Listen" or "Connect". Clicking one will open a shell window. Close to return to main GUI.
-4. To "Grant Access" means to send connection requests to that IP.
-5. To "Listen" is to listen for any connection requests targeted at your IP.
-6. Clicking on one of these will open a shell window. Close it to return to main GUI.
 # DISCLAIMER
 **If this software is used for malicious purposes, I am not responsible for any damage done to your computer with this. This is intended for remote administration and pentesting, not for malicious purposes.**
