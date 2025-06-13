@@ -22,7 +22,7 @@ ns -ip [IP ADDRESS] -p [PORT] -c [CONNECT TO LISTENER] -l [LISTEN FOR INCOMING C
 ```
 **NOTE: THIS SERVER WILL TRY CONNECTING FOREVER UNLESS KEYBOARD INTERRUPT OR TERMINAL WINDOW CLOSED**
 # USAGE - NitroShell.exe
-NitroShell.exe is the GUI version of NitroShell. You must install the file NitroShell GUI as downloading it alone won't work since it depends on ns.exe and ns-server.exe.
+NitroShell.exe is the GUI version of NitroShell. You must install the file NitroShell GUI as downloading it alone won't work since it depends on ns.exe.
 Installing is the same, but keep in mind that antiviruses may flag it as malicious and delete the file. If this happens, add it to the antivirus's whitelist.
 1. Enter IP in IP box. DDNS's may work, but hasn't been tested.
 2. Enter a valid port number.
